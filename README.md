@@ -2,6 +2,11 @@
 
 Welcome to the **Interview Platform**, a user-friendly web application designed to share and learn from interview experiences. This platform enables individuals to prepare effectively for interviews by accessing insights from a supportive community.
 
+## 🚀 Demo
+
+Experience the platform in action: [Live Demo](#)
+
+---
 ## 🌟 Features
 
 - 🔒 **User Authentication**
@@ -108,11 +113,5 @@ POST   /api/submissions      - Create new submission
 PUT    /api/submissions/:id  - Update existing submission
 DELETE /api/submissions/:id  - Remove submission
 ```
-
-## 🚀 Demo
-
-Experience the platform in action: [Live Demo](#)
-
----
 
 Made with ❤️ for the interview preparation community
