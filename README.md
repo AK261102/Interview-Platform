@@ -11,7 +11,6 @@ Welcome to the **Interview Platform**, a user-friendly web application designed 
 - 📝 **Interview Experience Sharing**
   - Submit detailed interview experiences
   - Share specific questions encountered
-  - Provide valuable tips and insights
   
 - 🔍 **Experience Management**
   - Comprehensive dashboard for browsing all submissions
@@ -79,22 +78,19 @@ Welcome to the **Interview Platform**, a user-friendly web application designed 
 ### 1. Account Management
 - Register a new account or log in to existing one
 - Secure authentication using JWT
-- Profile management capabilities
-
+- 
 ### 2. Sharing Interview Experiences
 - Create detailed submissions about your interviews
 - Include company information and questions asked
-- Share insights and tips for other candidates
 
 ### 3. Exploring Submissions
 - Browse through the comprehensive dashboard
 - View detailed interview experiences
-- Search and filter functionality for relevant content
+- Search functionality companywise
 
 ### 4. Managing Your Content
 - Edit your submitted experiences
 - Remove outdated content
-- Track your contributions to the community
 
 ## 🔗 API Documentation
 
