@@ -46,7 +46,7 @@ Experience the platform in action: [Live Demo](https://drive.google.com/file/d/1
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/interview-platform.git
+   https://github.com/AK261102/Interview-Platform.git
    cd interview-platform
    ```
 
